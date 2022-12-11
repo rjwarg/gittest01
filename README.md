@@ -1,2 +1,2 @@
 # gittest01
-a temporary rrepo for learning git
+a temporary repo for learning git
